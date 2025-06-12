@@ -65,7 +65,7 @@ const HomeSlider: React.FC = () => {
           },
           {
             place: "Kerjasama",
-            title: "PARTNET",
+            title: "PARTNER",
             title2: "DAN SPONSOR",
             description:
               "Terimakasih atas kerjasama dan dukungan dari berbagai pihak terutama partner dan sponsorship yang sudah menjalin kerjasama dengan kami.",
